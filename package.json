@@ -21,5 +21,8 @@
     "eleventy-plugin-images-responsiver": "~1.8.2",
     "image-size": "~0.9.3",
     "markdown-it-attrs": "~3.0.3"
+  },
+  "dependencies": {
+    "markdown-it": "^11.0.1"
   }
 }
